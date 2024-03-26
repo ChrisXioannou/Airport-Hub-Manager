@@ -16,7 +16,7 @@ The Airport Hub Manager with GUI is an interactive Java application designed to 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="assets/screenshots/1.png" height="80%" width="80%" alt="Launch Utility"/>
+<img src="Airport-Hub-Manager/assets/1.png" height="80%" width="80%" alt="Launch Utility"/>
 <br />
 <br />
 ... (other steps with corresponding images) ...
