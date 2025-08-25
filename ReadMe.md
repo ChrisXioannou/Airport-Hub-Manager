@@ -35,8 +35,8 @@
 5) For Admin options, password:'1234':<br/>
 <img src="assets/5.png" width="50%" alt="Admin Password"/>
 <br />
-<br />
-6) Add new airports or flights:<br/>
+<br /> 
+6) Add new airports or flights: <br/>
 <img src="assets/6.png" width="30%" alt="Add Airports and Flights"/>
 <br />
 <br />
